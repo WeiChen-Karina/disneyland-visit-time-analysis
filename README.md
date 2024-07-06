@@ -65,7 +65,8 @@ From September 1 through October 31, 2023, Disneyland will begin celebrating the
 
 # 🔑 Key Takeaways    
 Throughout this report, we have shown that when considering each independent variable of ticket pricing, crowd traffic, and weather conditions, deciding the single best month might lead to varying results. Because of this, we decided to run a linear regression and demonstrate that when looking at these 3 factors the single best month to visit is 'September’. However, we decided to also consider that there might be some who have extra time available to them and can go to Disneyland multiple times over a two-week period. For these participants, a range from anywhere between ‘November’ and ‘January’ is the most optimal time to visit as not only will they get the best value cost-wise, but the amount of holiday-centric events they can experience goes up as well. 
-<i> According to the data and the analysis, it shows that September is the best month for visiting Disneyland based on factors like ticket prices, crowd, and weather data with an accuracy of R square 0.915 and  alpha=0.05 level of significance. </i>
+
+__<i> According to the data and the analysis, it shows that September is the best month for visiting Disneyland based on factors like ticket prices, crowd, and weather data with an accuracy of R square 0.915 and  alpha=0.05 level of significance. </i>__
 
 # ☁️ Project Challenges
 We did face some limitations while analyzing the problem statement. The crowd data was not numeric but we managed to convert the data using weighted factors and obtained a good fit result. Another major challenge was combining three very different factors together and getting one single month as the best month.
